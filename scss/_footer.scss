@@ -1,0 +1,33 @@
+.comments {
+  background-image: url(./../img/comments-08.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.comments.linear-white::after {
+  top: 0;
+}
+
+.commets__img {
+  --tamano: 80px;
+  width: var(--tamano);
+  height: var(--tamano);
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 7px 7px 7px rgba(0 0 0 / 0.5);
+  border: 3px ridge #fff;
+}
+
+.transform-turn {
+  transform: rotate(0.5turn);
+}
+
+footer .copyright {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  border-top: 1px solid white;
+  padding: 0px 40px;
+}

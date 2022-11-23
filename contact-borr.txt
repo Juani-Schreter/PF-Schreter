@@ -1,0 +1,40 @@
+    <div class="container contact-form text-white">
+      <h1>Contacto</h1>
+      <hr />
+      <div class="row">
+        <div class="col-md-6">
+          <p>Juan Ignacio Schreter</p>
+          <p>juaniischreter@gmail.com</p>
+          <p>Celular</p>
+        </div>
+        <div class="col-md-6">
+          <div class="form-group">
+            <label>Nombre</label>
+            <input type="text" class="form-control" />
+          </div>
+          <div class="form-group">
+            <label>Email</label>
+            <input type="text" class="form-control" />
+          </div>
+          <div class="form-group">
+            <label>Mensaje</label>
+            <textarea class="form-control" rows="7"></textarea>
+          </div>
+          <div class="form-group">
+            <button class="btn btn-success btn-block">Enviar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    /* SECTION CONTACTO */
+.contact-form {
+  background-image: url(./../img/comments-02.jpg);
+  background-size: cover;
+  color: black;
+  margin-top: 100px;
+  padding: 20px;
+  box-shadow: 7px 7px 7px rgba(0 0 0 / 0.5);
+  border-radius: 2%;
+}

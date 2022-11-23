@@ -1,0 +1,229 @@
+    <!-- Experience -->
+    <section class="container">
+      <div class="row justify-content-md-center">
+        <!-- Texts -->
+        <div class="col-12 text-center">
+          <h2 class="text-warning text-uppercase h6">Experience</h2>
+          <h3 class="text-capitalize">The thrilling outdoor</h3>
+          <p class="text-muted">
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam
+            eveniet aut aspernatur enim, et iure veritatis iste voluptatem
+            facilis ratione minus repellendus magnam beatae sint asperiores
+            ipsam? Nam, facere eveniet.
+          </p>
+        </div>
+        <!-- Cards -->
+        <!-- Card #1 -->
+        <article class="col-md-6 col-lg-4 card-effect mb-3 mb-md-0">
+          <div class="card">
+            <img
+              src="./img/raiting.png"
+              alt="Raiting"
+              class="card-img card-img-filter"
+            />
+            <div
+              class="card-img-overlay text-white d-flex flex-column justify-content-center text-center"
+            >
+              <h4>Rafting</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
+                quibusdam nihil corrupti autem distinctio! Illo.
+              </p>
+              <a href="#" class="text-reset">Read more</a>
+            </div>
+          </div>
+        </article>
+        <!-- Card #2 -->
+        <article class="col-md-6 col-lg-4 card-effect mb-3 mb-md-0">
+          <div class="card">
+            <img
+              src="./img/hiking.png"
+              alt="Hiking"
+              class="card-img card-img-filter"
+            />
+            <div
+              class="card-img-overlay text-white d-flex flex-column justify-content-center text-center"
+            >
+              <h4>Hiking</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
+                quibusdam nihil corrupti autem distinctio! Illo.
+              </p>
+              <a href="#" class="text-reset">Read more</a>
+            </div>
+          </div>
+        </article>
+        <!-- Card #3 -->
+        <article class="col-md-6 col-lg-4 card-effect mt-md-4 mt-lg-0">
+          <div class="card">
+            <img
+              src="./img/camping.png"
+              alt="camping"
+              class="card-img card-img-filter"
+            />
+            <div
+              class="card-img-overlay text-white d-flex flex-column justify-content-center text-center"
+            >
+              <h4>Camping</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
+                quibusdam nihil corrupti autem distinctio! Illo.
+              </p>
+              <a href="#" class="text-reset">Read more</a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- Comments -->
+    <section class="comments linear-white mb-5">
+      <img src="./img/cuts/cut-header.svg" alt="" class="transform-turn" />
+      <div class="container">
+        <div class="row">
+          <blockquote class="col-12 text-white text-center">
+            <!-- img -->
+            <img
+              src="./img/john-doe.jpeg"
+              alt="John Doe"
+              class="commets__img"
+            />
+            <!-- comment -->
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem
+              quam sapiente amet ratione quia.
+            </p>
+            <!-- name -->
+            <footer class="blockquote-footer text-white">
+              <cite>John Doe</cite>
+            </footer>
+          </blockquote>
+        </div>
+      </div>
+    </section>
+
+    <!-- Inspiracion -->
+    <section class="container">
+      <div class="row">
+        <!-- Titles -->
+        <div class="col-12 text-center">
+          <h3 class="text-warning text-uppercase h6">Lorem, ipsum dolor.</h3>
+          <h2 class="text-capitalize">Sparks of inspiration</h2>
+        </div>
+        <!-- Media object #1 -->
+        <ul class="col-12 col-md-6">
+          <li class="media">
+            <img
+              src="./img/sparks/boat.jpg"
+              alt="Boat"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+          <li class="media">
+            <img
+              src="./img/sparks/signal.jpg"
+              alt="Signal"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+          <li class="media">
+            <img
+              src="./img/sparks/town.jpg"
+              alt="town"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+        </ul>
+        <!-- Media object #2 -->
+        <ul class="col-12 col-md-6">
+          <li class="media">
+            <img
+              src="./img/sparks/boat.jpg"
+              alt="Boat"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+          <li class="media">
+            <img
+              src="./img/sparks/signal.jpg"
+              alt="Signal"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+          <li class="media">
+            <img
+              src="./img/sparks/town.jpg"
+              alt="town"
+              class="media-object-img"
+            />
+            <div class="media-body">
+              <h5 class="h6 mb-0 mb-1">Subtitle</h5>
+              <h4 class="h5">
+                <a href="#" class="text-reset">Title of object</a>
+              </h4>
+              <p>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Molestiae laborum asperiores suscipit?
+              </p>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+
+/*
+.vh-50 {
+  height: 50vmin;
+}
+*/
