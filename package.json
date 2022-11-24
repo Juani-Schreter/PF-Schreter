@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juani-Schreter/PF-Schreter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Juani-Schreter/PF-Schreter/issues"
+  },
+  "homepage": "https://github.com/Juani-Schreter/PF-Schreter#readme",
   "description": ""
 }
